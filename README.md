@@ -1,5 +1,5 @@
-### Hi there 👋，this is a funny guy.
-### C/C++/C#,let's do some funny things.
+### non terrea plus ultar
+
 
 <!--
 **senxichong/senxichong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
